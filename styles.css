@@ -1,0 +1,12 @@
+body{
+  background-color: #d7f0fa;
+}
+div{
+  padding: 20px;
+}
+.circle, .triangle, .square, .rectangle{
+  display: none;
+}
+.shapes{
+  display: none;
+}
